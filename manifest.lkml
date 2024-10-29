@@ -1,7 +1,7 @@
 project_name: "explore-assistant-kb"
 
 application: explore_assistant_kb {
-  label: "KB Explore Assistant"
+  label: "Explore Assistant (BQML - Make It Smarter)"
   #url: "https://localhost:8080/bundle.js"
   file: "bundle.js"
   entitlements: {
